@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "lpc_peripherals.h": "c",
+        "sj2_cli.h": "c",
+        "gpio_isr.h": "c",
+        "lpc40xx.h": "c",
+        "stdint.h": "c",
+        "main(2).C": "cpp",
+        "cstddef": "c",
+        "list": "c",
+        "string": "c",
+        "limits": "c",
+        "memory": "c",
+        "new": "c",
+        "type_traits": "c",
+        "optional": "c"
+    }
+}
